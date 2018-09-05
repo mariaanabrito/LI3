@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParVendasClientes()
+comment1.params=ven\ cli
+comment1.target=ParVendasClientes(int,\ int)
+comment2.params=p
+comment2.target=ParVendasClientes(ParVendasClientes)
+comment3.params=
+comment3.target=int\ getVendasTotal()
+comment4.params=
+comment4.target=int\ getClientesTotais()
+comment5.params=n
+comment5.target=void\ adicionaVendas(int)
+comment6.params=n
+comment6.target=void\ adicionaClientes(int)
+comment7.params=
+comment7.target=ParVendasClientes\ clone()
+comment8.params=obj
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

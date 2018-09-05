@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ start()
+comment0.text=\n\ M\u00E9todo\ que\ inicia\ o\ cron\u00F3metro.\n
+comment1.params=
+comment1.target=double\ stop()
+comment1.text=\n\ M\u00E9todo\ que\ para\ o\ cron\u00F3metro.\n
+comment2.params=
+comment2.target=java.lang.String\ print()
+comment2.text=\n\ M\u00E9todo\ que\ devolve\ uma\ representa\u00E7\u00E3o\ textual\ do\ intervalo\n\ decorrido.\n
+numComments=3

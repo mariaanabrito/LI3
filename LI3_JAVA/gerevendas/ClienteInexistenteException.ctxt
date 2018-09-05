@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=msg
+comment0.target=ClienteInexistenteException(java.lang.String)
+comment0.text=\n\ Construtor\ por\ par\u00E2metro.\n
+numComments=1
